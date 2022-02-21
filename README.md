@@ -29,6 +29,10 @@ Tive contato com toda a MERN Stack.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igstefano&layout=compact&langs_count=7&theme=synthwave"/>
 </div> 
 
+## Minha atividade no WakaTime:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 ## Linguagens
 
