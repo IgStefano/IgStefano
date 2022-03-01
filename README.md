@@ -32,6 +32,16 @@ Tive contato com toda a MERN Stack.
 ## Minha atividade no WakaTime:
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript      64 hrs 45 mins  ████████████████████████▒   96.76 %
+Bash            1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+JSON            14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+PHP             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+HTML            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
  
 ## Linguagens
