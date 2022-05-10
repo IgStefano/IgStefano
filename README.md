@@ -34,12 +34,12 @@ Tive contato com toda a MERN Stack.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   93 hrs 5 mins   ██████████████████████▓░░   90.08 %
-HTML         6 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Bash         1 hr 45 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-JavaScript   1 hr 32 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Markdown     25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Git Config   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript   84 hrs 11 mins  ██████████████████████▒░░   89.14 %
+HTML         6 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Bash         1 hr 45 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JavaScript   1 hr 32 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown     25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Git Config   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
