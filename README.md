@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 ## Meu nome é Igor Stefano! Prazer em conhecer!
 Sou um desenvolvedor Front-end, trabalho principalmente com React!
 
-Formado no bootcamp de Web Development pela Ironhack 
-
-Tive contato com toda a MERN Stack.
+Formado no bootcamp de Web Dev da Ironhack em 2021. Atuando na <a href="gria.io">Gria</a> desde janeiro/2022.
 
 ## Veja abaixo um pouco de meus números no GitHub:
 
