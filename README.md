@@ -32,12 +32,12 @@ Formado no bootcamp de Web Dev da Ironhack em 2021. Atuando na <a href="gria.io"
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   93 hrs 59 mins  █████████████████████▓░░░   86.72 %
-HTML         4 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-JavaScript   4 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-CSS          1 hr 53 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash         1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Python       34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript   98 hrs 52 mins  █████████████████████▓░░░   86.93 %
+HTML         5 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JavaScript   4 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+CSS          1 hr 59 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Bash         1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python       34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
