@@ -32,12 +32,12 @@ Formado no bootcamp de Web Dev da Ironhack em 2021. Atuando no <a href="canaltec
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   59 hrs 21 mins  ███████████████████░░░░░░   76.33 %
-PHP          7 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-SCSS         2 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-JavaScript   2 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-HTML         1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Other        1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript   56 hrs 20 mins  ███████████████████░░░░░░   75.76 %
+PHP          7 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+SCSS         2 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+JavaScript   2 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+HTML         1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Other        1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
