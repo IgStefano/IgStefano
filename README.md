@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ## Meu nome é Igor Stefano! Prazer em conhecer!
-Sou um desenvolvedor Front-end, trabalho principalmente com React!
+Sou um desenvolvedor Front-end, no mercado desde janeiro/2022. Já atuei com React, NextJS, e com diversas soluções de estilização, incluindo styled-components e Tailwind. Também possuo experiência no back-end utilizando Node com NestJS e PHP.
 
 Formado no bootcamp de Web Dev da Ironhack em 2021. Atuando no <a href="canaltech.com.br">Canaltech</a> desde julho/2022.
 
@@ -27,20 +27,6 @@ Formado no bootcamp de Web Dev da Ironhack em 2021. Atuando no <a href="canaltec
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igstefano&layout=compact&langs_count=7&theme=synthwave"/>
 </div> 
 
-## Minha atividade no WakaTime:
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript    50 hrs 46 mins  ███████████████████░░░░░░   75.81 %
-PHP           5 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-YAML          3 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JSON          3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-JavaScript    1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-```
-
-<!--END_SECTION:waka-->
- 
 ## Linguagens
 
  <div style="display: inline_block">
@@ -64,12 +50,11 @@ JavaScript    1 hr 26 mins    ▓░░░░░░░░░░░░░░░�
  
  ## Contato
  
-### Fique à vontade para entrar em contato comigo via LinkedIn ou por e-mail!
+### Fique à vontade para entrar em contato comigo via LinkedIn!
  
   <div style="display: inline">
   
   <a href="https://www.linkedin.com/in/igor-stefano/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto: igorstefano90@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 
 </div>
  
