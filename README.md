@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ## Meu nome é Igor Stefano! Prazer em conhecer!
 Sou um desenvolvedor Front-end, no mercado desde janeiro/2022. Já atuei com React, NextJS, e com diversas soluções de estilização, incluindo styled-components e Tailwind. Também possuo experiência no back-end utilizando Node com NestJS e PHP.
 
-Formado no bootcamp de Web Dev da Ironhack em 2021. Atuando no <a href="canaltech.com.br">Canaltech</a> desde julho/2022.
+Formado no bootcamp de Web Dev da Ironhack em 2021. Cursando Análise e Desenvolvimento de Sistemas na XP Educação.
+
+Atuando no <a href="canaltech.com.br">Canaltech</a> desde julho/2022.
 
 ## Veja abaixo um pouco de meus números no GitHub:
 
