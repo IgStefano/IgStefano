@@ -16,41 +16,22 @@ Here are some ideas to get you started:
 
 
 ## Meu nome é Igor Stefano! Prazer em conhecer!
-Sou um desenvolvedor Front-end, no mercado desde janeiro/2022. Já atuei com React, NextJS, e com diversas soluções de estilização, incluindo styled-components e Tailwind. Também possuo experiência no back-end utilizando Node com NestJS e PHP.
+Sou um desenvolvedor full-stack, no mercado desde janeiro/2022. Já atuei com React, NextJS, e com diversas soluções de estilização, incluindo styled-components e Tailwind. 
+No back-end, possuo experiência com tecnologias diversas, desde Node com TypeScript, passando pelo PHP e atualmente focado em Python.
 
-Formado no bootcamp de Web Dev da Ironhack em 2021. Cursando Análise e Desenvolvimento de Sistemas na XP Educação.
+Fiz o bootcamp de Web Development da Ironhack em 2021 e atualmente estou cursando Análise e Desenvolvimento de Sistemas na XP Educação.
 
-Atuando no <a href="canaltech.com.br">Canaltech</a> desde julho/2022.
+Atuando no <a href="https://magalu.cloud/solucoes/">Magalu Cloud Soluções</a> desde julho/2024.
 
-## Veja abaixo um pouco de meus números no GitHub:
+## Projetos
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igstefano&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igstefano&layout=compact&langs_count=7&theme=synthwave"/>
-</div> 
+Esses são os meus projetos preferidos! Tudo que fiz é open-source, então fique à vontade para dar uma olhada.
 
-## Linguagens
+- Kamishibai: Aplicação full-stack para o controle de quests em RPGs de mesa. Utilizei NextJS, React, TypeScript e tRPC neste projeto.
+- Qual É o Próximo Feriado: Site enxuto e bem-humorado para perguntar e responder uma simples questão: qual é o próximo feriado? Utilizei Astro, React e TypeScript neste projeto.
+- O Conto de Hikari: Meu primeiro projeto web! Jogo baseado em questão desenvolvido para a web, utilizando apenas HTML, CSS e JS vanilla.
 
- <div style="display: inline_block">
-
-  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- 
-  <img align="center" alt="TS" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
- </div>
- 
- ## Frameworks
- 
-  <div style="display: inline_block">
-
-  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="NextJS" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img align="center" alt="Tailwind" height="30" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="NodeJS" height="30"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
- </div>
- 
- ## Contato
+## Contato
  
 ### Fique à vontade para entrar em contato comigo via LinkedIn!
  
