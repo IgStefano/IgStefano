@@ -21,7 +21,7 @@ No back-end, possuo experiência com tecnologias diversas, desde Node com TypeSc
 
 Fiz o bootcamp de Web Development da Ironhack em 2021 e atualmente estou cursando Análise e Desenvolvimento de Sistemas na XP Educação.
 
-Atuando no <a href="https://magalu.cloud/solucoes/">Magalu Cloud Soluções</a> desde julho/2024.
+Atuando no BCG X desde março/2025.
 
 ## Projetos
 
